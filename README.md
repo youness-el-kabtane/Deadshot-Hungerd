@@ -32,6 +32,8 @@
 A brave soldier is sent to a zombie-filled island on a deadly mission. Armed with a special anti-zombie shotgun, he must wipe out the undead and find enough food to survive each day.
 
 ## Control
+![thumbnail.jpg](https://github.com/youness-el-kabtane/Deadshot-Hungerd/blob/8b3a3191b3dca4bd41f1176a6d7dddca3fc62d16/image/thumbnail.jpg
+)
 
 | Action                   | Key / Button           |
 |--------------------------|------------------------|
