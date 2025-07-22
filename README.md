@@ -1,6 +1,6 @@
 # Deadshot Hungerd
 ![thumbnail.jpg]([..](https://github.com/youness-el-kabtane/Deadshot-Hungerd/blob/5343b7160b6681d0848770413a8379202730cf82/image/thumbnail.jpg
-))
+)
 ## About the Game
 
 **Deadshot Hungerd** is a short survival zombie shooter made with ❤️ using [LÖVE2D](https://love2d.org/) and Lua.  
