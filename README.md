@@ -1,5 +1,5 @@
 # Deadshot Hungerd
-![thumbnail.jpg]([..](https://github.com/youness-el-kabtane/Deadshot-Hungerd/blob/5343b7160b6681d0848770413a8379202730cf82/image/thumbnail.jpg
+![thumbnail.jpg](https://github.com/youness-el-kabtane/Deadshot-Hungerd/blob/8b3a3191b3dca4bd41f1176a6d7dddca3fc62d16/image/thumbnail.jpg
 )
 ## About the Game
 
