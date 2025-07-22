@@ -35,12 +35,12 @@ A brave soldier is sent to a zombie-filled island on a deadly mission. Armed wit
 ![Control.png](https://github.com/youness-el-kabtane/Deadshot-Hungerd/blob/147f86f0f14296f13f93442c62e4ec83a17a3def/image/Control.png
 )
 
-| Action                   | Key / Button           |
-|--------------------------|------------------------|
-| Move                     | Arrow Keys             |
-| Turn-Direction           | follow mouse position  |
-| Shoot                    | Left Click             |
-| Restart Game             | `R` (after death)      |
+| Action                           | Key / Button                   |
+|----------------------------------|--------------------------------|
+| Move                             | Arrow Keys                     |
+| Turn-Direction                   | follow mouse position          |
+| Shoot                            | Left Click                     |
+| Restart Game                     | `R` (after death)              |
 
 ## Features
 
